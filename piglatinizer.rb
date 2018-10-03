@@ -8,5 +8,3 @@ class PigLatinizer
 
 
   end
-
-end
