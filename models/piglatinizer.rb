@@ -1,4 +1,4 @@
-class PigLatinizer < Sinatra::Base
+class PigLatinizer
   get '/'do
     erb :index
   end
